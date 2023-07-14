@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=100&section=header&text=Joopy-KR&fontSize=80" />
 
-### Hi everyone ✨
-###
-###
 <div>
 <a href="https://www.instagram.com/kj_hyung/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://blog.naver.com/kjhstar1124" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
