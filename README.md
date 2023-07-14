@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=100&section=header&text=Joopy-KR&fontSize=80" />
+
 ### Hi everyone ✨
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
