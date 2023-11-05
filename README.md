@@ -2,7 +2,6 @@
 
 <div>
 <a href="https://www.instagram.com/kj_hyung/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://blog.naver.com/kjhstar1124" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 </div>
     
 - 👨‍🎓 Bachelor of Politics and International Relations from Chung-Ang Univ.
