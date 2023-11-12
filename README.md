@@ -16,5 +16,5 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joopy-KR)](https://github.com/anuraghazra/github-readme-stats)
-![Joopy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joopy-KR&hide=contribs,prs&show_icons=true&theme=graywhite)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joopy-KR)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![Joopy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joopy-KR&hide=contribs,prs&show_icons=true&theme=graywhite)<br/>
