@@ -12,5 +12,9 @@
 <br>
 
 ### Skills ✍
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joopy-KR)](https://github.com/anuraghazra/github-readme-stats)
+![Joopy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joopy-KR&hide=contribs,prs&show_icons=true&theme=graywhite)
