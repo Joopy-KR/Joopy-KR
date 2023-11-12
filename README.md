@@ -20,5 +20,3 @@
 <img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joopy-KR)](https://github.com/anuraghazra/github-readme-stats)<br/>
