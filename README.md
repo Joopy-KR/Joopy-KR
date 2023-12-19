@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=100&section=header&text=Joopy-KR&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=100&section=header&text=Joopy-KR&fontSize=80" />
 
 <div>
 <a href="https://www.instagram.com/kj_hyung/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
