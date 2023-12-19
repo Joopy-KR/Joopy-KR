@@ -39,6 +39,8 @@
 </div>
 
 <br>
+<br>
+<br>
 <div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjhstar1124)](https://solved.ac/kjhstar1124/)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjhstar1124">    
 </div>
