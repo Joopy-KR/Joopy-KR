@@ -41,5 +41,7 @@
 <br>
 <br>
 <div align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjhstar1124">    
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjhstar1124"> 
+<img src="http://mazandi.herokuapp.com/api?handle=kjhstar1124&theme=warm"/>
 </div>
+
