@@ -48,12 +48,13 @@
 <div align="center">
 <h3>Awards 🏆</h3>
 <p>🏅 삼성 청년 SW 아카데미(SSAFY) 10기 1학기 성적우수상(종합성적 3등)</p>
-<p>🏆 삼성 청년 SW 아카데미(SSAFY) 10기 공통프로젝트 우수상(1등)</p>
+<p>🥇 삼성 청년 SW 아카데미(SSAFY) 10기 공통프로젝트 최우수상(1등)</p>
+<p>🏆 삼성 청년 SW 아카데미(SSAFY) 10기 특화프로젝트 최우수상(1등)</p>
 </div>
 
 <br>
 <div align="center">
 <h3>Algorithm 💻</h3>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjhstar1124"> 
-<img src="http://mazandi.herokuapp.com/api?handle=kjhstar1124&theme=warm"/>
+<!-- <img src="http://mazandi.herokuapp.com/api?handle=kjhstar1124&theme=warm"/> -->
 </div>
