@@ -31,6 +31,9 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"/></a>
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white" height="25"/></a>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" height="25"/></a>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" height="25"/></a>
+<img src="https://img.shields.io/badge/Unity-F2F0FF?style=flat-square&logo=unity&logoColor=black" height="25"/></a>
+
 </div>
 
 <br>
