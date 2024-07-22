@@ -55,6 +55,15 @@
 
 <br>
 <div align="center">
+<h3>Certification 🪪</h3>
+<p>✒️ TOEIC (905) - 2022.12.11</p>
+<p>📣 TOEIC Speaking (Advanced Mid) - 2024.01.21</p>
+<p>📢 OPIc (Intermediate High) - 2024.01.24</p>
+</div>
+
+
+<br>
+<div align="center">
 <h3>Algorithm 💻</h3>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjhstar1124"> 
 <!-- <img src="http://mazandi.herokuapp.com/api?handle=kjhstar1124&theme=warm"/> -->
