@@ -55,7 +55,7 @@
 
 <br>
 <div align="center">
-<h3>Certification 🪪</h3>
+<h3>Certification 💎</h3>
 <p>✒️ TOEIC (905) - 2022.12.11</p>
 <p>📣 TOEIC Speaking (Advanced Mid) - 2024.01.21</p>
 <p>📢 OPIc (Intermediate High) - 2024.01.24</p>
