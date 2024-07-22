@@ -3,16 +3,11 @@
 </div>
 
 <br>
-<br>
-
-<div align="center">
-<a href="https://www.instagram.com/kj_hyung/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-</div>
 
 <div align="center">
     <br>
     <p>- 👨‍🎓 Bachelor of Politics and International Relations from Chung-Ang Univ.</p>
-    <p>- 📖 Studying in SSAFY 10th (Samsung SW Academy For Youth)</p>
+    <p>- 📖 Studied at SSAFY 10th (Samsung SW Academy For Youth)</p>
     <p>- 🎈 Enjoy playing Guitar🎸, Korean Archery🏹</p>
 </div>
 
@@ -41,6 +36,7 @@
 <div align="center">
 <h3>Tools 🔧</h3>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="25"/></a>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="25"/></a>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="25"/></a>
 <img src="https://img.shields.io/badge/Pycharm-006600?style=flat-square&logo=pycharm&logoColor=white" height="25"/></a>
 <img src="https://img.shields.io/badge/Intellij Idea-000000?style=flat-square&logo=intellijidea&logoColor=white" height="25"/></a>
@@ -50,9 +46,11 @@
 <br>
 <div align="center">
 <h3>Awards 🏆</h3>
+<p>🔴🔵 삼성 청년 SW 아카데미(SSAFY) 10기 최우수 수료 (고용노동부 장관상)🔵🔴</p>
 <p>🏅 삼성 청년 SW 아카데미(SSAFY) 10기 1학기 성적우수상(종합성적 3등)</p>
 <p>🥇 삼성 청년 SW 아카데미(SSAFY) 10기 공통프로젝트 최우수상(1등)</p>
-<p>🏆 삼성 청년 SW 아카데미(SSAFY) 10기 특화프로젝트 최우수상(1등)</p>
+<p>🎖️ 삼성 청년 SW 아카데미(SSAFY) 10기 특화프로젝트 최우수상(1등)</p>
+<p>✨ 삼성 청년 SW 아카데미(SSAFY) 10기 Best Member 3회 수상 (공통, 특화, 자율)</p>
 </div>
 
 <br>
