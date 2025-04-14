@@ -57,6 +57,7 @@
 <div align="center">
 <h3>Certification 💎</h3>
 <p>👨‍💻 정보처리기사 - 2024.09.10</p>
+<p>🛢️ SQLD - 2025.04.04</p>
 <p>✒️ TOEIC (905) - 2022.12.11</p>
 <p>📣 TOEIC Speaking (Advanced Mid) - 2024.01.21</p>
 <p>📢 OPIc (Intermediate High) - 2024.01.24</p>
